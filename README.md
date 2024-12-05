@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @vijayvr17
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Frontend Development
+- 💞️ I’m looking to collaborate on Github
+- 📫 How to reach me "vijayvr1733@gmail.com"
+- 😄 Pronouns: He/Him
